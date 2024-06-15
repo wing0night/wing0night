@@ -6,7 +6,7 @@ I'm a self-taught passionate developer interested in Deep learning from China
 
 - 🏢 Currently a junor student at Zhejiang Univ, major Chemistry/Automation. 
 
-- 🛠️ Have quite a lot experience in developing embedded system, while I'm also a beginner on deep learning now. 
+- 🛠️ Have some experience in developing embedded system, while I'm also a beginner on deep learning now. 
 
 - ❤️ I love building interesting systems, and working on innovative topic
 
@@ -31,6 +31,13 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <a href="https://github.com/wing0night/I2C_Software_OPT3001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wing0night&repo=I2C_Software_OPT3001&theme=buefy" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wing0night/wing0night/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wing0night/wing0night/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <br />
 <br />
