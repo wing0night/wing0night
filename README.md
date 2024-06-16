@@ -47,6 +47,9 @@ I'm a self-taught passionate developer interested in Deep learning from China
   />
 </picture>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 <br />
 
