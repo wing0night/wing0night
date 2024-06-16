@@ -2,7 +2,7 @@
   with:
     # github user name to read the contribution graph from (**required**)
     # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.wing0night }}
+    github_user_name: ${{ wing0night }}
 
     # list of files to generate.
     # one file per line. Each output can be customized with options as query string.
@@ -20,4 +20,4 @@
 
   env:
     # a github token is required to fetch the contribution calendar from github API
-    GITHUB_TOKEN: ${{ secrets.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 }}
+    GITHUB_TOKEN: ${{ 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 }}
