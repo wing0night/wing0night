@@ -50,9 +50,11 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-TeX           12 mins         ████████████████████████▒   97.01 %
-Markdown      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+XML                33 mins         ███████░░░░░░░░░░░░░░░░░░   27.76 %
+Markdown           16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+C++                15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
+YAML               14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+TeX                12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
 ```
 
 <!--END_SECTION:waka-->
