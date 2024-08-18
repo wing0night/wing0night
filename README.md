@@ -25,9 +25,6 @@ I'm a self-taught passionate developer interested in Deep learning from China
 #### My Repositories
 
 
-<a href="https://github.com/wing0night/light_detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wing0night&repo=light_detection&theme=buefy" />
-</a>
 <a href="https://github.com/wing0night/I2C_Software_OPT3001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wing0night&repo=I2C_Software_OPT3001&theme=buefy" />
 </a>
