@@ -35,6 +35,19 @@ I'm a self-taught passionate developer interested in Deep learning from China
 ## GitHub Analytics
 | <a href="https://github.com/wing0night/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wing0night&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/wing0night/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wing0night&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<!--START_SECTION:waka-->
+
+```txt
+Python       7 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   42.03 %
+Solidity     4 hrs 37 mins   ███████░░░░░░░░░░░░░░░░░░   27.44 %
+Markdown     2 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
+Java         1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+Text         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+```
+
+<!--END_SECTION:waka-->
+
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wing0night&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
