@@ -51,8 +51,8 @@ Text         24 mins         ▓░░░░░░░░░░░░░░░░
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wing0night&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-## Trophie Stats
-![](https://github-profile-trophy.vercel.app/?username=wing0night&theme=onedark)
+<!-- ## Trophie Stats
+![](https://github-profile-trophy.vercel.app/?username=wing0night&theme=onedark) -->
 
 <!-- ## Portfolio Website
 [![Static Badge](https://img.shields.io/badge/Website-%20?style=for-the-badge&label=Portfolio&labelColor=dark&color=blue)](https://www.sukhmansingh.tech) -->
