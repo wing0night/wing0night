@@ -7,9 +7,9 @@ I'm a self-taught passionate developer interested in Deep learning from China
 
 - 🏢 Currently a junor student at Zhejiang Univ, major Chemistry/Automation. 
 
-- 🛠️ Have some experience in developing embedded system, while I'm also a beginner on deep learning now. 
+- 🛠️ Have some experience in developing embedded system, while I'm also a beginner on deep learning now.
 
-- ❤️ I love building interesting systems, and working on innovative topic
+- ❤️ Do interesting things and make the world better! 
 
 - 💬 Visit [my Personal introduction](https://iw3ft6u1hzy.feishu.cn/wiki/I6Cpwu4GPiPWkbkKDAhcixhvnTd) to know more 
 
