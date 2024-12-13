@@ -39,11 +39,11 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-Python       26 hrs 41 mins  ██████████████████░░░░░░░   71.82 %
-TypeScript   5 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
-JSON         2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Markdown     39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Python       27 hrs 23 mins  ████████████████████▓░░░░   82.28 %
+TypeScript   2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
+JSON         1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Markdown     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Git Config   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
