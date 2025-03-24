@@ -39,11 +39,11 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-Devicetree   49 mins         ███████████▒░░░░░░░░░░░░░   45.26 %
-Python       25 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-C            16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-C++          8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+C++          59 mins         ███████▓░░░░░░░░░░░░░░░░░   30.11 %
+Devicetree   49 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
+Markdown     45 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+Python       20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+C            16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
 ```
 
 <!--END_SECTION:waka-->
