@@ -39,8 +39,9 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   1 hr 2 mins     █████████████████▓░░░░░░░   70.68 %
-Other        25 mins         ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+SSH Config   1 hr 2 mins     ████████████████▓░░░░░░░░   67.20 %
+Other        25 mins         ███████░░░░░░░░░░░░░░░░░░   27.87 %
+Markdown     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
