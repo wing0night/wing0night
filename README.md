@@ -39,11 +39,11 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-C++          6 hrs 37 mins   ███████████▓░░░░░░░░░░░░░   46.06 %
-Markdown     3 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-TypeScript   2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-Groovy       59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Git Config   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+C++               3 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+Markdown          3 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
+TypeScript        2 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+Groovy            1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Kotlin            1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
