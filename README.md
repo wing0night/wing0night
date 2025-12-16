@@ -39,11 +39,11 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.73 %
-C++          5 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.48 %
-SSH Config   1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Markdown     1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Bash         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Python       8 hrs 55 mins   ████████████▓░░░░░░░░░░░░   50.20 %
+C++          5 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.37 %
+Markdown     1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+Bash         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+SSH Config   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
