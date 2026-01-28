@@ -39,9 +39,9 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 17 mins   █████████████████████████   99.70 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   2 hrs 50 mins   █████████████████████████   99.73 %
+YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
