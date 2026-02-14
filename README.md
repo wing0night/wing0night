@@ -39,7 +39,7 @@ I'm a self-taught passionate developer interested in Deep learning from China
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr            █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
