@@ -5,11 +5,11 @@ I'm a self-taught passionate developer interested in Deep learning from China
 
 **About me**
 
-- 🏢 Currently a junor student at Zhejiang Univ, major Chemistry/Automation. 
+- 🏢 Currently a PhD candidate in Mechanical Engineering at Zhejiang University/SII.
 
-- 🛠️ I'm currently a PhD candidate in Mechanical Engineering at Zhejiang University and SII, conducting research in Vision-Language-Action (VLA) and multi-agent systems. I also have hands-on experience developing embedded systems. 
+- 🛠️ I'm conducting research in Vision-Language-Action (VLA). I also have hands-on experience developing embedded systems. 
 
-- ❤️ I love building interesting systems, and working on innovative topics
+- ❤️ I love building interesting things, and working on innovative topics
 
 - 💬 Visit [my Personal introduction](https://iw3ft6u1hzy.feishu.cn/wiki/I6Cpwu4GPiPWkbkKDAhcixhvnTd) to know more 
 
