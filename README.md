@@ -1,8 +1,6 @@
 <!-- The repo is built using Sukhman Singh's profile as a tempolate -->
 <h1 align="center">Hi 👋, I'm wing0night</h1>
 
-I'm a self-taught passionate developer interested in Deep learning from China
-
 **About me**
 
 - 🏢 Currently a PhD candidate in Mechanical Engineering at Zhejiang University/SII.
