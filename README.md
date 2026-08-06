@@ -3,7 +3,7 @@
 
 **About me**
 
-- 🏢 Currently a PhD candidate in Mechanical Engineering at Zhejiang University/SII.
+- 🏢 Currently a PhD candidate in Mechanical Engineering at ZJU/SII.
 
 - 🛠️ I'm conducting research in Vision-Language-Action (VLA). I also have hands-on experience developing embedded systems. 
 
